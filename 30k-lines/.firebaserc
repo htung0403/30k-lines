@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "your-project-id",
+    "load-30k-lines": "k-lines"
+  },
+  "targets": {},
+  "etags": {}
+}
